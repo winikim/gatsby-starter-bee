@@ -1,12 +1,12 @@
 module.exports = {
-  title: `Bee starter`,
+  title: `개발 블로그`,
   description: `Blog posted about ...`,
-  author: `[김승민]`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
+  author: `[winikim]`,
+  introduction: `Web Developer interested in DDD, Spring, Vue`,
   siteUrl: `https://winikim.netlify.app`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: ``, // Your GitHub account
+    github: `https://github.com/winikim`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
@@ -24,7 +24,7 @@ module.exports = {
     buyMeACoffeeId: 'winikim',
   },
   share: {
-    facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
+    facebookAppId: '929127494205725', // Add facebookAppId for using facebook share feature v3.2
   },
   ga: '', // Add your google analytics tranking ID
 }
