@@ -6,7 +6,7 @@ module.exports = {
   siteUrl: `https://winikim.netlify.app`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: `https://github.com/winikim`, // Your GitHub account
+    github: `winikim`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
